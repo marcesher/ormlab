@@ -1,0 +1,2 @@
+# Copy the following and paste it into the mysql command line client
+CREATE DATABASE IF NOT EXISTS ormlabmax2011;
